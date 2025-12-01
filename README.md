@@ -4,4 +4,4 @@ We first had to use the requests python package to download the file with web re
 
 After downloading the file, we have to use several python packages to read the file. Specifically, we downloaded numpy, matplotlib, matplotlib.pyplot, and h5py. After storing the fieldname and data as a variable, we can start exploring the data. We first store the strain data and look at the metadata in order to make a time vector. We plot the data as a time series. It’s hard to discern any details so we zoom in on a specific time series to look at a few seconds of data. 10,000 samples is about 2.4 seconds.
 
-**Note that our code is labeled "GW Data NEW" as a PDF in the Jupyter folder of this repository**
+**Note that our code is labeled "GW Data NEW (Final PDF)" as a PDF in the Jupyter folder of this repository**
